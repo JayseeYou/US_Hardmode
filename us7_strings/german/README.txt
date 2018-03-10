@@ -1,0 +1,1 @@
+For any and all translators, your job is to maintain and update this language's folder to be the same as the English folder.
